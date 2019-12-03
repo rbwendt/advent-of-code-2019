@@ -8,3 +8,6 @@ I probably won't finish this 🎄
 
 #### part 2
 `ruby day1.rb`
+
+### day2
+`ruby day2.rb`
