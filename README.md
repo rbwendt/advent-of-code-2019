@@ -7,7 +7,7 @@ I probably won't finish this 🎄
 `cat input/day1.txt | while read p; do echo "scale=0;  ($p/3)-2" | bc  ; done | paste -sd+ - | bc`
 
 #### part 2
-`ruby day1.rb`
+`scala day1.scala`
 
 ### day2
 `ruby day2.rb`
