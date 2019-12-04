@@ -11,3 +11,6 @@ I probably won't finish this 🎄
 
 ### day2
 `ruby day2.rb`
+
+### day 4
+`scala day4.scala`
